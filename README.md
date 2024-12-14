@@ -9,9 +9,9 @@
 `시간` : 월~목 13:00 ~ 19:00, 금 13:00 ~ 18:00
 
 `교재` :
-[![코어_자바스크립트](https://img.shields.io/badge/코어_자바스크립트-green.svg)](https://choosealicense.com/licenses/mit/)
-[![모던_자바스크립트](https://img.shields.io/badge/모던_자바스크립트-yellow.svg)](https://opensource.org/licenses/)
-[![이펙티브_타입스크립트](https://img.shields.io/badge/이펙티브_타입스크립트-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+![코어_자바스크립트](https://img.shields.io/badge/코어_자바스크립트-green.svg)
+![모던_자바스크립트](https://img.shields.io/badge/모던_자바스크립트-yellow.svg)
+![이펙티브_타입스크립트](https://img.shields.io/badge/이펙티브_타입스크립트-blue.svg)
 
 <br>
 
