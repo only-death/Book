@@ -6,7 +6,7 @@
 
 `장소` : Dsicode
 
-`시간` : 금 10:00 ~
+`시간` : 월 ~ 금 10:00 ~
 
 `교재` :
 ![코어_자바스크립트](https://img.shields.io/badge/코어_자바스크립트-green.svg)
